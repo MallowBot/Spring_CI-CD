@@ -1,4 +1,4 @@
 # Spring_CI-CD
 
 ## Hugo GRILLET
-## EFREI Paris MsC
+## EFREI Paris MsC Cybersécurité & Management
