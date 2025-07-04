@@ -93,8 +93,8 @@ pipeline {
   <servers>
     <server>
       <id>nexus</id>
-      <username>$NEXUS_USER</username>
-      <password>$NEXUS_PASS</password>
+      <username>admin</username>
+      <password>Espoire15!</password>
     </server>
   </servers>
 </settings>
