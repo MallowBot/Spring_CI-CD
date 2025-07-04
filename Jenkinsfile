@@ -13,6 +13,7 @@ pipeline {
     NEXUS_URL   = 'http://13.39.25.134/repository/maven-snapshots/'
   }
 
+  
   stages {
     stage('Checkout') {
       steps {
